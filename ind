@@ -1,0 +1,22 @@
+<DOCTYPE html>
+    <html lang="pt-br"
+    </head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="whidth=device-width, initial-scale=1.0">
+     <title>Ana</title>
+</head>
+<body>
+ <header>
+<img class="img_cabecalho" src="logotipopoEDDIg.png" alt="logotipo educação digital">
+<ul>
+ <li>Início</li>
+ <li>Educação Digital</li>
+ <li>Contato</li>
+ </ul>
+ </header>
+
+ <header>
+    <h1>Meu Projeto</h1>
+</body>
+</html>
+
